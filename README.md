@@ -6,7 +6,7 @@ This is somewhat old (and currently outdated) Tera-Proxy / Tera-Toolbox **_QoL_*
 
 You (as the user of this content) are solely responsible for your own actions and any consequences that result from your actions.
 
-_No support / updates will be provided for this module (the code is provided "as-is")._ The code is (for the most part) fairly straightforward.
+_No support / updates will be provided for this module (the code is provided "as-is" for informational/educational/inspirational/what-have-you purposes only)._ The code is (for the most part, aside from the poor attempt at tracking damage taken) straightforward, so try not to bleed your eyes out too much.
 
 ## Proxy compatibility:
 - Last tested on Patch 87(?) on [Tera Toolbox](https://github.com/tera-toolbox/tera-toolbox) back in late 2019.
