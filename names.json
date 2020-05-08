@@ -1,0 +1,98 @@
+{
+	"zones": {
+		"13" : "Island of Dawn",
+		"7001"	: "Arcadia",
+		"7005" : "Velika",
+		"7015" : "Balder's Refuge"
+	},
+	"gatherables": {
+		"1": {
+			"name": "Harmony Grass",
+			"itemId": 0
+		},
+		"2": {
+			"name": "Wild Cobseed",
+			"itemId": 0
+		},
+		"3": {
+			"name": "Wild Veridia",
+			"itemId": 0
+		},
+		"4": {
+			"name": "Orange Mushroom",
+			"itemId": 0
+		},
+		"5": {
+			"name": "Moongourd",
+			"itemId": 0
+		},
+		"6": {
+			"name": "Apple Tree",
+			"itemId": 0
+		},
+		"101": {
+			"name": "Plain Stone",
+			"itemId": 206806
+		},
+		"102": {
+			"name": "Cobala Ore",
+			"itemId": 206807
+		},
+		"103": {
+			"name": "Shadmetal Ore",
+			"itemId": 0
+		},
+		"104": {
+			"name": "Xermetal Ore",
+			"itemId": 0
+		},
+		"105": {
+			"name": "Normetal Ore",
+			"itemId": 0
+		},
+		"106": {
+			"name": "Galborne Ore",
+			"itemId": 0
+		},
+		"201": {
+			"name": "Achromic Essence",
+			"itemId": 0
+		},
+		"202": {
+			"name": "Crimson Essence",
+			"itemId": 0
+		},
+		"203": {
+			"name": "Earth Essence",
+			"itemId": 0
+		},
+		"204": {
+			"name": "Azure Essence",
+			"itemId": 0
+		},
+		"205": {
+			"name": "Opal Essence",
+			"itemId": 0
+		},
+		"206": {
+			"name": "Obsidian Essence",
+			"itemId": 0
+		},
+		"457": {
+			"name": "Paesyn's Files (Not harvestable)",
+			"itemId": 0
+		},
+		"458": {
+			"name": "EmberBloom (Not harvestable)",
+			"itemId": 0
+		},
+		"529": {
+			"name": "Eclipse Thistle (Not harvestable)",
+			"itemId": 0
+		},
+		"914": {
+			"name": "Veridia Root",
+			"itemId": 0
+		}
+	}
+}
